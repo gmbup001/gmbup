@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gmbup.github.io/post/deal/</loc>
+    <loc>http://gmbup.github.io/gmbup/post/deal/</loc>
     <lastmod>2017-02-05T14:51:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gmbup.github.io/post/nomail/</loc>
+    <loc>http://gmbup.github.io/gmbup/post/nomail/</loc>
     <lastmod>2017-02-05T15:48:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gmbup.github.io/post/rule/</loc>
+    <loc>http://gmbup.github.io/gmbup/post/rule/</loc>
     <lastmod>2017-02-05T15:20:35+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gmbup.github.io/about/</loc>
+    <loc>http://gmbup.github.io/gmbup/about/</loc>
     <lastmod>2017-02-05T13:03:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gmbup.github.io/</loc>
+    <loc>http://gmbup.github.io/gmbup/</loc>
     <lastmod>2017-02-05T14:51:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gmbup.github.io/post/</loc>
+    <loc>http://gmbup.github.io/gmbup/post/</loc>
     <lastmod>2017-02-05T15:48:03+09:00</lastmod>
     <priority>0</priority>
   </url>
